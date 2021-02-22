@@ -2,3 +2,5 @@ conf/.env
 .DS_Store
 .idea/
 db.sqlite3
+*.xml
+*.iml
