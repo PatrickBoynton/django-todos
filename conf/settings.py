@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = ["127.0.0.1",
-                 "git.heroku.com/django-todo-app-jpb3.git"
+                 "django-todo-app-jpb3.herokuapp.com"
                  ]
 
 
